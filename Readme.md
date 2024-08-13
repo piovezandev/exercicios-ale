@@ -1,5 +1,5 @@
 
-## 📫 Exercicios Ale
+## 💻 Exercicios Ale
 
 Serie de exercicios bem simples para começar a praticar o desenvolvimento Java
 
@@ -9,3 +9,7 @@ Serie de exercicios bem simples para começar a praticar o desenvolvimento Java
 4. Crie um branch: `git checkout -b <nome_branch>`.
 5. Após fazer cada exercicio, realize um commit : `git commit -m '<mensagem_commit>'`
 4. Faça um push da sua branch com comando: `git push origin <nome_branch>`
+
+## 📚 Primeira parte
+
+Nesse primeiro momento, fazer somente os 5 primeiros projetos simples, qualquer duvida só falar.
