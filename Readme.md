@@ -12,4 +12,4 @@ Serie de exercicios bem simples para começar a praticar o desenvolvimento Java
 
 ## 📚 Primeira parte
 
-Nesse primeiro momento, fazer somente os 5 primeiros projetos simples, qualquer duvida só falar.
+Nesse primeiro momento, fazer somente os 5 primeiros exercicios, qualquer duvida só falar.
